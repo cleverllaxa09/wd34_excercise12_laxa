@@ -1,0 +1,9 @@
+.features{
+  background-image: url(./img/manhua/bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 500px;
+}
+.tops{
+  background: none;
+}

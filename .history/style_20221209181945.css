@@ -1,0 +1,19 @@
+.features{
+  background-image: url(./img/manhua/bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 500px;
+}
+.tops{
+  background: none;
+}
+body{
+  background: none;
+}.gap100{
+  padding: 70px 0px;
+}
+.accordion-button:not(.collapsed) {
+  color: inherit;
+  background: rgb(35,65,100);
+  color:#e8e8e8;
+}
